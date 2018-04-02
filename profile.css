@@ -1,0 +1,76 @@
+	:root{
+	font-size: 16px	;}
+
+
+	.fa-arrow-left{
+		padding-right:5vw;
+	}
+	.tag{
+	  text-decoration:none;
+	  cursor: pointer;
+	  color:black;
+	}
+	.tag:hover{
+		text-decoration: none;
+		color:black;
+	}
+	.tag-one{
+		 text-decoration:none;
+	  cursor: pointer;
+	  color:white;
+
+	}
+	.tag-one:hover{
+		text-decoration:none;
+	  cursor: pointer;
+	  color:black;
+
+	}
+
+
+	.color{
+
+		background-color: #00bfa5;
+		height:20%;
+		color:white;
+		font-size:1.8rem;
+		padding-top: 7vh;
+		padding-bottom: 3vh;
+
+
+	}
+
+	.color-Two{
+		background-color:#f7f7f7;
+		padding-bottom: 4vh;
+		cursor: pointer;
+		
+	}
+	
+	.color-four{
+		background-color: #f7f7f7;
+		padding-bottom: 6vh;
+		color:#00bfa5;
+		padding-top: 3vh;
+		font-size: 1.2rem;
+
+	}
+
+	.color-five{
+		background-color: #ffffff;
+		padding-bottom: 2vh;
+		color:#00bfa5;
+		padding-top: 3vh;
+		font-size: 1.2rem;
+	}
+	.color-change{
+		padding-top:0vh;
+		font-weight: 400;
+		color:black;
+	}
+	.rounded-circle{
+		padding-top: 2vh;
+		
+
+	}	
+

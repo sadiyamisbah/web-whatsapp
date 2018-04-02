@@ -1,0 +1,53 @@
+:root{
+font-size: 16px	;}
+
+
+
+}
+
+.rounded{
+	
+	
+	font-weight: bolder;
+	padding-top: 0vh;
+	padding-bottom: 10vh;
+
+
+
+
+
+
+}
+
+
+.color{
+	
+	color:#000000;
+	font-weight: 470;
+	height: 6vh;
+	font-size: 1.5rem;
+
+}
+.text-center{
+	margin-top: 10vh;
+
+}
+.col-md-12 img{
+    width:4vw;
+    height: 8vh;
+    border-radius: 50%;
+    padding-top: 0.2vh;}
+
+
+
+@media screen and (max-width:480px){
+	.col-md-12 img{
+		width:11vw;
+    height: 8vh;
+    border-radius: 50%;
+    padding-top: 0.9vh;
+
+
+
+	}
+}
